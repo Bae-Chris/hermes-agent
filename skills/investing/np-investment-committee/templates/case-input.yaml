@@ -1,0 +1,63 @@
+company:
+  name: ""
+  sector: ""
+  round: ""
+  valuation_pre_money_krw: null
+  raise_amount_krw: null
+
+problem_customer:
+  problem: ""
+  target_customer: ""
+  evidence: []
+
+product_technology:
+  product: ""
+  differentiation: ""
+  maturity: ""
+  ip_data_moat: ""
+  performance_metrics: []
+  evidence: []
+
+market_competition:
+  tam_krw: null
+  sam_krw: null
+  som_krw: null
+  competitors: []
+  evidence: []
+
+business_model:
+  revenue_model: ""
+  pricing: ""
+  gross_margin_pct: null
+  cac: null
+  ltv: null
+  evidence: []
+
+traction_finance:
+  revenue_2025_krw: null
+  revenue_2026e_krw: null
+  growth_pct: null
+  runway_months: null
+  key_customers: []
+  contracts: []
+  evidence: []
+
+team:
+  founders: []
+  key_hires: []
+  evidence: []
+
+cap_table_funding:
+  existing_investors: []
+  founder_ownership_pct: null
+  option_pool_pct: null
+  debt_krw: null
+  evidence: []
+
+tips_policy:
+  target_program: ""
+  eligibility_notes: ""
+  prior_support: []
+  evidence: []
+
+open_questions: []
